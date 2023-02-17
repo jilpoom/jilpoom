@@ -3,6 +3,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jilpoom)](https://solved.ac/jilpoom)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilpoom)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jilpoom&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jilpoom/jilpoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
