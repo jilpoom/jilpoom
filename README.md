@@ -1,8 +1,4 @@
 
-<div>
-
-<hr>
-  
 <div align="center">
   <h3> Favorite Tech Stacks </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
