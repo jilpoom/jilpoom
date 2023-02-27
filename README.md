@@ -29,12 +29,6 @@
   
 <div align="center">
   
-  <h3> Favorite IDEs </h3>
-  
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-  
   <h3> Collaboration Tools <h3>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
