@@ -1,17 +1,5 @@
 
 <h1>Hello, World🐤</h1>
-  
-<div align="center">
-  
-  <h3> Github Stats </h3>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilpoom)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-  
-
-
-
 <!--
 **jilpoom/jilpoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
