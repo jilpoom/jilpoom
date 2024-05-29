@@ -3,8 +3,8 @@
 name: WakaTime
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: "28 0 * * *"
+    # Runs at 12am UTC+9
+    - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
