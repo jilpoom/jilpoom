@@ -3,7 +3,7 @@
 name: WakaTime
 on:
   schedule:
-    # Runs at 12am UTC+9
+    # Runs at 12 pm UTC+9
     - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
