@@ -2,13 +2,13 @@
 ### Hello, World🐤
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 80.5 kB Used in GitHub's Storage 
+> 📦 80.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,990 Contributions in the Year 2024
  > 
@@ -45,14 +45,14 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               38 hrs 12 mins      ████████████████░░░░░░░░░   64.09 % 
-HTML                     17 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Prisma                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-SCSS                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript               34 hrs 10 mins      ████████████████░░░░░░░░░   62.34 % 
+HTML                     17 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Prisma                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+SCSS                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  54 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,5 +72,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jilpoom/jilpoom/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 03:28:04 UTC
+ Last Updated on 03/11/2024 03:31:36 UTC
 <!--END_SECTION:waka-->
