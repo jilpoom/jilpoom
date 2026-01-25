@@ -1,14 +1,2 @@
 
 ### Hello, World🐤
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   19 hrs 21 mins  ████████████████████░░░░░   80.20 %
-Prisma       1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-HTML         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Bash         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-```
-
-<!--END_SECTION:waka-->
